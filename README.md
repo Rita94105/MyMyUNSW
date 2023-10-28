@@ -9,6 +9,10 @@ and it handles much of the educational administration plausibly well.
 the UNSW Online Handbook, and the CATS (room allocation) database. 
 - The MyMyUNSW data model, schema and database are described in a separate document.
 
+## Relation Diagram
+
+![relation diagram](https://github.com/Rita94105/MyMyUNSW/blob/master/relation%20diagram.svg)
+
 ## Tasks
 
 ### Question 1
